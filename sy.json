@@ -18,7 +18,7 @@
 {"id":"15","number":"15","name":"Shufi Mafi","description":"","logo":"/ShufiMafi.jpg","streamUrl":"https://live-shufimafi.sharp-stream.com/shufimafi.mp3","yourmuzeId":null,"state":"1"},
 {"id":"16","number":"16","name":"Sawt Shabab","description":"http://82.137.248.20:1935/RShabab/RShababLive/playlist.m3u8","logo":"/z_radio_sawt_shabab.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioShabab","yourmuzeId":null,"state":"1"},
 {"id":"17","number":"17","name":"Radio Syriana","description":"http://www.liveonlineradio.net/fr/syria/radio-syriana.htm\r\nhttp://82.137.248.20:1935/RSyriana/RSyrianaLive/playlist.m3u8","logo":"/z_radio_syriana.png","streamUrl":"http://radioliveb.rtv.gov.sy:8008/RadioSouryana","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"Radio dimashq","description":"http://82.137.248.20:1935/RDimshq/RDimshqLive/playlist.m3u8","logo":"/z_radio_dimashq.png","yourmuzeId":null,"state":"1"},      
+{"id":"18","number":"18","name":"Radio dimashq","description":"http://82.137.248.20:1935/RDimshq/RDimshqLive/playlist.m3u8","logo":"/z_radio_dimashq.png","yourmuzeId":null,"state":"1"},      
 {"id":"21","number":"21","name":"Radio ANA","description":"","logo":"/z_radio_ana.png","streamUrl":"http://198.178.123.23:8662/stream/1/;listen.mp3","yourmuzeId":null,"state":"2"},
 {"id":"22","number":"22","name":"Radio Al Kul","description":"","logo":"/z_radio_alkul.png","streamUrl":"http://livecast.radioalkul.com:8080/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"23","number":"23","name":"Radio Souriali","description":"","logo":"/z_radio_souriali.png","streamUrl":"http://s9.voscast.com:7924/;stream1460655567844/1","yourmuzeId":null,"state":"2"},
@@ -46,7 +46,6 @@
 {"id":"45","number":"45","name":"Radio Free Syria","description":null,"logo":"/syria_45.png","streamUrl":"http://s10.voscast.com:9816/;stream1460364822091/1","yourmuzeId":null,"state":"2"},
 {"id":"46","number":"46","name":"GUL FM","description":null,"logo":"/syria_46.png","streamUrl":"http://s6.voscast.com:9938/","yourmuzeId":null,"state":"2"},
 {"id":"47","number":"47","name":"\u0631\u0627\u062f\u064a\u0648 \u0627\u0644\u0622\u0646","description":"","logo":"/syria_47.png","streamUrl":"https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8","yourmuzeId":"0","state":"1"},
-{"id":"48","number":"48","name":"Radio 7la","description":"","logo":"/Radio7la.jpg","streamUrl":"http://7la.grtv.im:8999/;","yourmuzeId":"0","state":"1"},
 {"id":"49","number":"49","name":"Radio Rozana","description":"","logo":"/z_radio_rozana.png","streamUrl":"http://node-31.zeno.fm/n4d3nq4258quv?rj-ttl=5&rj-tok=AAABcetnsIcAsHxxqxuSqy1pPQ","yourmuzeId":"0","state":"1"},
 {"id":"50","number":"50","name":"radio sawt shaab(راديوصوت الشعب)","description":"","logo":"/z_radio_sawt_shaab.png","streamUrl":"http://vps1.osina.cloud:9320/;","yourmuzeId":"0","state":"1"}      
        
