@@ -3,7 +3,12 @@
 [
 {"id":"1","number":"1","name":"Farah FM","description":"http://www.farah.fm/playar/play.m3u","logo":"/z_radio_farah_fm.png","streamUrl":"http://radio.farah.fm:8015/","yourmuzeId":null,"state":"1"},
 {"id":"2","number":"2","name":"Version FM","description":"","logo":"/z_radio_version_fm.png","streamUrl":"http://38.96.175.97:5980/;","yourmuzeId":null,"state":"1"}
-  
+{"id":"3","number":"3","name":"Ninar FM","description":"http://ninarfm.com/streaming_player/WMstreaming.asx\r\nhhttp://69.64.38.76:8222/listen.pls","logo":"/z_radio_ninar_fm.png","streamUrl":"http://ninarfm.grtvstream.com:8896/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"4","number":"4","name":"Radio Mix FM","description":"http://198.27.80.37:5742/listen.pls\r\nhttp://198.27.80.37:5742/","logo":"/z_radio_mix_fm.png","streamUrl":"http://192.99.17.12:5102/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"5","number":"5","name":"Syrian News","description":"","logo":"/SyrianNews.jpg","streamUrl":"http://radioliveb.rtv.gov.sy:8002/Snews","yourmuzeId":null,"state":"1"},
+{"id":"6","number":"6","name":"Rayan FM","description":"http://www.rayanfm.com:9998/listen.pls","logo":"/z_radio_rayan.png","streamUrl":"http://www.rayanfm.com:9998","yourmuzeId":null,"state":"1"},
+{"id":"7","number":"7","name":"Fuse FM","description":"http://167.114.131.90:5376/;stream.mp3","logo":"/z_radio_fuse_fm.png","streamUrl":"http://192.99.17.12:4986/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"8","number":"8","name":"Radio Alasemeh","description":"","logo":"/z_radio_alasemeh.png","streamUrl":"http://asima.out.airtime.pro:8000/asima_a","yourmuzeId":null,"state":"1"},  
   
   
   
