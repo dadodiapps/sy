@@ -27,7 +27,16 @@
 {"number":"24","name":"Radio Masjid Umar","description":"","logo":"/Radio Masjid Umar.png","streamUrl":"http://live.almuwahhidiin.com:8108/;","yourmuzeId":"0","state":"1"},
 {"number":"25","name":"ARTA FM","description":"","logo":"/ARTA FM.png","streamUrl":"http://edge.mixlr.com/channel/qtgru","yourmuzeId":"0","state":"1"},
 {"number":"26","name":"Radio Sawt Al-Raqqa","description":"","logo":"/Radio Sawt Al-Raqqa.png","streamUrl":"http://s2.voscast.com:11004/;stream1560523181469/1","yourmuzeId":"0","state":"1"},
-{"number":"27","name":"Syrian Foreign Radio","description":"","logo":"/Syrian Foreign Radio.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioCham","yourmuzeId":"0","state":"1"}
+{"number":"27","name":"Syrian Foreign Radio","description":"","logo":"/Syrian Foreign Radio.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioCham","yourmuzeId":"0","state":"1"},
+{"number":"28","name":"Radio Swaida","description":"","logo":"/Radio Swaida.png","streamUrl":"http://swaida.com:9996/;","yourmuzeId":"0","state":"1"},
+{"number":"29","name":"Tartous FM","description":"","logo":"/Tartous FM.png","streamUrl":"http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"30","name":"Radio Sada","description":"","logo":"/Radio Sada.png","streamUrl":"http://192.99.8.192:3054/;","yourmuzeId":"0","state":"1"},
+{"number":"31","name":"Fann FM","description":"","logo":"/Fann FM.png","streamUrl":"http://188.247.86.67:8000/2","yourmuzeId":"0","state":"1"},
+{"number":"32","name":"Melody FM","description":"","logo":"/Melody FM.png","streamUrl":"http://streaming.inet.sy:8000/melodyfm","yourmuzeId":"0","state":"1"},
+{"number":"33","name":"Radio Zenobia FM","description":"","logo":"/Radio Zenobia FM.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioZenobia","yourmuzeId":"0","state":"1"},
+{"number":"34","name":"Radio El Karma","description":"","logo":"/Radio El Karma.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioKarma","yourmuzeId":"0","state":"1"},
+{"number":"35","name":"Radio Damascus","description":"","logo":"/Radio Damascus.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioDimshq","yourmuzeId":"0","state":"1"},
+{"number":"36","name":"Radio Alwan","description":"","logo":"/Radio Alwan.png","streamUrl":"http://s7.voscast.com:8216/;","yourmuzeId":"0","state":"1"}
   
   
   
