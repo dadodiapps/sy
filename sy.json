@@ -10,7 +10,12 @@
 {"id":"7","number":"7","name":"Fuse FM","description":"http://167.114.131.90:5376/;stream.mp3","logo":"/z_radio_fuse_fm.png","streamUrl":"http://192.99.17.12:4986/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"8","number":"8","name":"Radio Alasemeh","description":"","logo":"/z_radio_alasemeh.png","streamUrl":"http://asima.out.airtime.pro:8000/asima_a","yourmuzeId":null,"state":"1"},  
 {"id":"9","number":"9","name":"Waha SMART","description":"","logo":"/z_radio_hawa_smart.png","streamUrl":"http://online2.hawa-smart.fm/mp3_128","yourmuzeId":null,"state":"2"}
-
+{"number":"10","name":"radio sawt shaab(راديوصوت الشعب)","description":"","logo":"/z_radio_sawt_shaab.png","streamUrl":"http://vps1.osina.cloud:9320/;","yourmuzeId":"0","state":"0"},
+{"number":"11","name":"MFM Tunisie","description":"","logo":"/r06.png","streamUrl":"http://92.222.225.69:9300","yourmuzeId":"0","state":"0"},
+{"number":"12","name":"MFM Tunisie","description":"","logo":"/r06.png","streamUrl":"http://92.222.225.69:9300","yourmuzeId":"0","state":"0"},
+{"number":"13","name":"MFM Tunisie","description":"","logo":"/r06.png","streamUrl":"http://92.222.225.69:9300","yourmuzeId":"0","state":"0"},
+{"number":"14","name":"MFM Tunisie","description":"","logo":"/r06.png","streamUrl":"http://92.222.225.69:9300","yourmuzeId":"0","state":"0"},
+{"number":"15","name":"MFM Tunisie","description":"","logo":"/r06.png","streamUrl":"http://92.222.225.69:9300","yourmuzeId":"0","state":"0"}
   
   
   
