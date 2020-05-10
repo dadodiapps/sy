@@ -9,50 +9,8 @@
 {"id":"6","number":"6","name":"Rayan FM","description":"http://www.rayanfm.com:9998/listen.pls","logo":"/z_radio_rayan.png","streamUrl":"http://www.rayanfm.com:9998","yourmuzeId":null,"state":"1"},
 {"id":"7","number":"7","name":"Fuse FM","description":"http://167.114.131.90:5376/;stream.mp3","logo":"/z_radio_fuse_fm.png","streamUrl":"http://192.99.17.12:4986/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"8","number":"8","name":"Radio Alasemeh","description":"","logo":"/z_radio_alasemeh.png","streamUrl":"http://asima.out.airtime.pro:8000/asima_a","yourmuzeId":null,"state":"1"},  
-{"id":"9","number":"9","name":"Waha SMART","description":"","logo":"/z_radio_hawa_smart.png","streamUrl":"http://online2.hawa-smart.fm/mp3_128","yourmuzeId":null,"state":"2"},
-{"id":"10","number":"10","name":"Radio Souryana","description":"","logo":"/Souryana.jpg","streamUrl":"http://radioliveb.rtv.gov.sy:8008/RadioSouryana","yourmuzeId":null,"state":"1"},
-{"id":"11","number":"11","name":"Syrian Sat","description":"http://s9.voscast.com:8150/listen.pls","logo":"/SyrianSat.jpg","streamUrl":"http://radioliveb.rtv.gov.sy:8002/Sat","yourmuzeId":null,"state":"1"},
-{"id":"12","number":"12","name":"Arabesque FM","description":"http://146.0.72.222:8103/listen.pls\r\nhttp://91.144.0.79:8765/stream","logo":"/z_radio_arabesque_fm.png","streamUrl":"http://185.4.87.79:8765/stream","yourmuzeId":null,"state":"2"},
-{"id":"13","number":"13","name":"Al Madeena FM","description":"","logo":"/z_radio_almadina_fm.png","streamUrl":"http://192.99.17.12:4978/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"14","number":"14","name":"Sham FM","description":"http://82.137.248.20:1935/RCham/RChamLive/playlist.m3u8","logo":"/z_radio_sham_fm.png","streamUrl":"http://radioshamfm.grtvstream.com:8400/;","yourmuzeId":null,"state":"1"},
-{"id":"15","number":"15","name":"Shufi Mafi","description":"","logo":"/ShufiMafi.jpg","streamUrl":"https://live-shufimafi.sharp-stream.com/shufimafi.mp3","yourmuzeId":null,"state":"1"},
-{"id":"16","number":"16","name":"Sawt Shabab","description":"http://82.137.248.20:1935/RShabab/RShababLive/playlist.m3u8","logo":"/z_radio_sawt_shabab.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioShabab","yourmuzeId":null,"state":"1"},
-{"id":"17","number":"17","name":"Radio Syriana","description":"http://www.liveonlineradio.net/fr/syria/radio-syriana.htm\r\nhttp://82.137.248.20:1935/RSyriana/RSyrianaLive/playlist.m3u8","logo":"/z_radio_syriana.png","streamUrl":"http://radioliveb.rtv.gov.sy:8008/RadioSouryana","yourmuzeId":null,"state":"1"},
-{"id":"18","number":"18","name":"Radio dimashq","description":"http://82.137.248.20:1935/RDimshq/RDimshqLive/playlist.m3u8","logo":"/z_radio_dimashq.png","yourmuzeId":null,"state":"1"},      
-{"id":"21","number":"21","name":"Radio ANA","description":"","logo":"/z_radio_ana.png","streamUrl":"http://198.178.123.23:8662/stream/1/;listen.mp3","yourmuzeId":null,"state":"2"},
-{"id":"22","number":"22","name":"Radio Al Kul","description":"","logo":"/z_radio_alkul.png","streamUrl":"http://livecast.radioalkul.com:8080/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"23","number":"23","name":"Radio Souriali","description":"","logo":"/z_radio_souriali.png","streamUrl":"http://s9.voscast.com:7924/;stream1460655567844/1","yourmuzeId":null,"state":"2"},
-{"id":"24","number":"24","name":"Radio Fikrah Children","description":"","logo":"/z_radio_fikrah_children.png","streamUrl":"http://s4.voscast.com:7510/;stream.nsv","yourmuzeId":null,"state":"2"},
-{"id":"25","number":"25","name":"Yasmeen Al Shaam","description":"http://s5.voscast.com:7984/;stream1419280335453/1","logo":"/z_radio_yasmeen_alshaam.png","streamUrl":"http://s5.voscast.com:7984","yourmuzeId":null,"state":"2"},
-{"id":"26","number":"26","name":"Salamis FM","description":"","logo":"/z_radio_salamis_fm.png","streamUrl":"http://37.187.90.121:3552/stream.mp3","yourmuzeId":null,"state":"2"},
-{"id":"27","number":"27","name":"Radio Watan FM","description":"","logo":"/z_radio_watan_fm.png","streamUrl":"http://192.99.170.8:5470/;/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"28","number":"28","name":"Hara FM","description":"http://s9.voscast.com:8446/;stream.mp3","logo":"/z_radio_hara_fm.png","streamUrl":"http://edge.mixlr.com/channel/qkacr","yourmuzeId":null,"state":"2"},
-{"id":"29","number":"29","name":"AMC 101.2 FM","description":"","logo":"/z_radio_amc_101_2_fm.png","streamUrl":"http://s6.voscast.com:9944/;","yourmuzeId":null,"state":"2"},
-{"id":"30","number":"30","name":"Radio Alwan","description":"","logo":"/z_radio_alwan.png","streamUrl":"http://s7.voscast.com:8216/;","yourmuzeId":null,"state":"2"},
-{"id":"31","number":"31","name":"Radio Damascus","description":"","logo":"/z_radio_damascus.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioDimshq","yourmuzeId":null,"state":"1"},
-{"id":"32","number":"32","name":"Radio El Karma","description":"","logo":"/z_radio_el_karma.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioKarma","yourmuzeId":null,"state":"1"},
-{"id":"33","number":"33","name":"Radio Zenobia FM","description":"","logo":"/z_radio_zenobia_fm.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioZenobia","yourmuzeId":null,"state":"1"},
-{"id":"34","number":"34","name":"Melody FM","description":"","logo":"/z_logo_melody_syria_fm.png","streamUrl":"http://streaming.inet.sy:8000/melodyfm","yourmuzeId":null,"state":"1"},
-{"id":"35","number":"35","name":"Radio 7la","description":null,"logo":"/syria_35.jpg","streamUrl":"http://7la.grtv.im:8985/","yourmuzeId":null,"state":"2"},
-{"id":"36","number":"36","name":"Fann FM","description":null,"logo":"/syria_36.jpg","streamUrl":"http://188.247.86.67:8000/2","yourmuzeId":null,"state":"1"},
-{"id":"37","number":"37","name":"Radio Sada","description":null,"logo":"/syria_37.png","streamUrl":"http://192.99.8.192:3054/;","yourmuzeId":null,"state":"1"},
-{"id":"38","number":"38","name":"Tartous FM","description":null,"logo":"/syria_38.jpg","streamUrl":"http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8","yourmuzeId":null,"state":"1"},
-{"id":"39","number":"39","name":"Radio Swaida","description":"","logo":"/syria_39.png","streamUrl":"http://swaida.com:9996/;","yourmuzeId":"0","state":"1"},
-{"id":"40","number":"40","name":"Syrian Foreign Radio","description":null,"logo":"/syria_40.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioCham","yourmuzeId":null,"state":"1"},
-{"id":"41","number":"41","name":"Radio Sawt Al-Raqqa","description":null,"logo":"/syria_41.png","streamUrl":"http://s2.voscast.com:11004/;stream1560523181469/1","yourmuzeId":null,"state":"1"},
-{"id":"42","number":"42","name":"ARTA FM","description":null,"logo":"/syria_42.png","streamUrl":"http://edge.mixlr.com/channel/qtgru","yourmuzeId":null,"state":"1"},
-{"id":"43","number":"43","name":"Radio Masjid Umar","description":null,"logo":"/syria_43.png","streamUrl":"http://live.almuwahhidiin.com:8108/;","yourmuzeId":null,"state":"1"},
-{"id":"44","number":"44","name":"Syria Alghad","description":null,"logo":"/syria_44.jpg","streamUrl":"http://185.121.184.104:8000/stream.mp3","yourmuzeId":null,"state":"2"},
-{"id":"45","number":"45","name":"Radio Free Syria","description":null,"logo":"/syria_45.png","streamUrl":"http://s10.voscast.com:9816/;stream1460364822091/1","yourmuzeId":null,"state":"2"},
-{"id":"46","number":"46","name":"GUL FM","description":null,"logo":"/syria_46.png","streamUrl":"http://s6.voscast.com:9938/","yourmuzeId":null,"state":"2"},
-{"id":"47","number":"47","name":"\u0631\u0627\u062f\u064a\u0648 \u0627\u0644\u0622\u0646","description":"","logo":"/syria_47.png","streamUrl":"https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8","yourmuzeId":"0","state":"1"},
-{"id":"49","number":"49","name":"Radio Rozana","description":"","logo":"/z_radio_rozana.png","streamUrl":"http://node-31.zeno.fm/n4d3nq4258quv?rj-ttl=5&rj-tok=AAABcetnsIcAsHxxqxuSqy1pPQ","yourmuzeId":"0","state":"1"},
-{"id":"50","number":"50","name":"radio sawt shaab(راديوصوت الشعب)","description":"","logo":"/z_radio_sawt_shaab.png","streamUrl":"http://vps1.osina.cloud:9320/;","yourmuzeId":"0","state":"1"}      
-       
-   
-  
-  
-  
+{"id":"9","number":"9","name":"Waha SMART","description":"","logo":"/z_radio_hawa_smart.png","streamUrl":"http://online2.hawa-smart.fm/mp3_128","yourmuzeId":null,"state":"2"}
+
   
   
   
