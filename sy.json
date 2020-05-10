@@ -36,7 +36,14 @@
 {"number":"33","name":"Radio Zenobia FM","description":"","logo":"/Radio Zenobia FM.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioZenobia","yourmuzeId":"0","state":"1"},
 {"number":"34","name":"Radio El Karma","description":"","logo":"/Radio El Karma.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioKarma","yourmuzeId":"0","state":"1"},
 {"number":"35","name":"Radio Damascus","description":"","logo":"/Radio Damascus.png","streamUrl":"http://radioliveb.rtv.gov.sy:8002/RadioDimshq","yourmuzeId":"0","state":"1"},
-{"number":"36","name":"Radio Alwan","description":"","logo":"/Radio Alwan.png","streamUrl":"http://s7.voscast.com:8216/;","yourmuzeId":"0","state":"1"}
+{"number":"36","name":"Radio Alwan","description":"","logo":"/Radio Alwan.png","streamUrl":"http://s7.voscast.com:8216/;","yourmuzeId":"0","state":"1"},
+{"number":"37","name":"AMC 101.2 FM","description":"","logo":"/AMC 101.2 FM.png","streamUrl":"http://s6.voscast.com:9944/;","yourmuzeId":"0","state":"1"},
+{"number":"38","name":"Hara FM","description":"","logo":"/Hara FM.png","streamUrl":"http://s9.voscast.com:8446/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"39","name":"Radio Watan FM","description":"","logo":"/Radio Watan FM.png","streamUrl":"http://192.99.170.8:5470/;/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"40","name":"Salamis FM","description":"","logo":"/Salamis FM.png","streamUrl":"http://37.187.90.121:3552/stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"41","name":"Yasmeen Al Shaam","description":"","logo":"/Yasmeen Al Shaam.png","streamUrl":"http://s5.voscast.com:7984/;stream1419280335453/1","yourmuzeId":"0","state":"1"},
+{"number":"42","name":"Radio Fikrah Children","description":"","logo":"/Radio Fikrah Children.png","streamUrl":"http://s4.voscast.com:7510/;stream.nsv","yourmuzeId":"0","state":"1"},
+{"number":"43","name":"Radio Souriali","description":"","logo":"/Radio Souriali.png","streamUrl":"http://s9.voscast.com:7924/;stream1460655567844/1","yourmuzeId":"0","state":"1"}
   
   
   
